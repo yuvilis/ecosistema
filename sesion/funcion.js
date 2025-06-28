@@ -9,7 +9,7 @@ event.preventDefault();
         return;
     }
 
-    window.location.href = "../inicio/inicio.html";
+    window.location.href = "../inicio/index.html";
 });
 
 
